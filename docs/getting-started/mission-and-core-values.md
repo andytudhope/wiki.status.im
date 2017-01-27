@@ -1,18 +1,18 @@
 # Mission & Core Values
 
-**Join us in putting Ethereum on every mobile device on the planet.**
-
-## Beliefs
-
-It is our belief that messenger apps are on the path to becoming gateways to our economies and social lives, they have the highest retention rates on user acquisition and more time is spent in messenger apps than any others. Successful messaging apps lend themselves to mass adoption and, combined with a strong open source community, we believe Status can solve a real problem with the on-boarding of people onto the blockchain; our favourite being Ethereum.  
-
-Blockchains, more specifically *public Blockchains*, have the potential to restructure the very fabric of our society. We believe Ethereum provides the clearest path forward towards an internet where users get to own their own data, and economies are built on open protocols. We imagine a future where decentralized applications make central intermediaries and centralised servers largely redundant. We can pave the way towards **conversational crypto-commerce**.  
+**Join us in putting Ethereum on every mobile device on the planet.**  
 
 ## The Mission
 
 Our mission is to facilitate the transition to a more open internet. Status strives to lower the barriers to interacting with Ethereum, and to provide an onramp to the Web 3.0 for the average smartphone user - whilst at the same time fostering an inclusive and diverse open source community.
 
 We intend to employ a strategy that contains three core components: *Technology*, *Community* & *User Aquisition*.
+
+## Beliefs
+
+It is our belief that messenger apps are on the path to becoming gateways to our economies and social lives, they have the highest retention rates on user acquisition and more time is spent in messenger apps than any others. Successful messaging apps lend themselves to mass adoption and, combined with a strong open source community, we believe Status can solve a real problem with the on-boarding of people onto the blockchain; our favourite being Ethereum.  
+
+Blockchains, more specifically *public Blockchains*, have the potential to restructure the very fabric of our society. We believe Ethereum provides the clearest path forward towards an internet where users get to own their own data, and economies are built on open protocols. We imagine a future where decentralized applications make central intermediaries and centralised servers largely redundant. We can pave the way towards **conversational crypto-commerce**.
 
 ### Technology
 
